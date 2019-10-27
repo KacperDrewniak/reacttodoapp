@@ -1,16 +1,10 @@
-import React, { Component }
-from 'react';
+import React, { Component } from "react";
 
-class AddTask extends Component{
-    state={}
-    render(){
-        return(
-            <div className="form">
-            <div>Dodaj Task</div>
-            <hr/>
-            </div>
-        );
-    }
+class AddTask extends Component {
+  state = {};
+  render() {
+    return <></>;
+  }
 }
 
 export default AddTask;
